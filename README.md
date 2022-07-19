@@ -6,4 +6,4 @@ This project includes a high availability cloud infrastructure diagram and a cor
 - 2vCPUs
 - 4GB RAM
 - 10GB disk space
-- Launch Configuration for an AutoScaling group to deploy a maximum of four servers located in two subnets.
+- Launch Configuration for an AutoScaling group to deploy a maximum of four servers located in two private subnets.
