@@ -1,0 +1,10 @@
+[
+  {
+    "ParameterKey": "EnvironmentName",
+    "ParameterValue": "UdagramCloudDevops"
+  },
+  {
+    "ParameterKey": "UbuntuAMI",
+    "ParameterValue": "ami-052efd3df9dad4825"
+  }
+]
